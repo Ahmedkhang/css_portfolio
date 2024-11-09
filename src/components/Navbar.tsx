@@ -7,7 +7,7 @@ export default function Navbar(){
         <>
            <div className="nav">
             
-            <p>Ahmed Ur  <span>Rehman</span></p>
+           <Link href="/"><p>Ahmed Ur  <span>Rehman</span></p></Link> 
 
 
             <div className="nav-right">
