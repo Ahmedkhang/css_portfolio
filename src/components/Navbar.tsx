@@ -12,7 +12,7 @@ export default function Navbar(){
 
             <div className="nav-right">
                 <ul>
-                   <Link href="/about"><li>Home</li></Link> 
+                   <Link href="/"><li>Home</li></Link> 
                    <Link href="/projects"><li>Our Projects</li></Link> 
                    <Link href="/contact"><li>Contact Us</li></Link>
                    <Link href="/about"><li>About Us</li></Link>
